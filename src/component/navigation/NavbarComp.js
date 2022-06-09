@@ -1,3 +1,4 @@
+//nvm install 16 --> npm start
 import React, { Component } from "react";
 import {Navbar, Nav, NavDropdown, Container} from 'react-bootstrap'
 
